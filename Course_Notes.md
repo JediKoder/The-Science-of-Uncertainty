@@ -67,3 +67,15 @@ The companion book to this course is [Introduction to Probability](http://athena
 [Additional Theoretical Material](Lecture_Notes/Lecture_17_b.md)
 
 [Unit Summary](https://www.youtube.com/watch?v=7_aFJxurMCI)
+
+Supplementary Material:
+For the 1st Edition:  Problem Solutions (last updated 5/15/07),   Supplementary problems
+For the 2nd Edition:  Problem Solutions (last updated 10/22/16)
+For the 2nd Edition: Supplement on the bivariate normal distribution
+For the 1st Edition:  Errata (last updated 9/10/05)
+For the 2nd Edition:  Errata (last updated 7/28/15)
+Link to the MIT course
+
+Link to the edX on-Line Course Introduction to Probability - The Science of Uncertainty page
+
+Amazon.com Link
