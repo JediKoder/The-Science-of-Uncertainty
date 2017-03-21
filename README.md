@@ -1,6 +1,9 @@
 # The-Science-of-Uncertainty
 Introduction to Probability - The Science of Uncertainty
 
+Solutions to MITx: 6.041x Introduction to Probability - The Science of Uncertainty
+https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1
+
 The world is full of uncertainty: accidents, storms, unruly financial markets, noisy communications. The world is also full of data. Probabilistic modeling and the related field of statistical inference are the keys to analyzing data and making scientifically sound predictions.
 
 Probabilistic models use the language of mathematics. But instead of relying on the traditional "theorem - proof" format, we develop the material in an intuitive -- but still rigorous and mathematically precise -- manner. Furthermore, while the applications are multiple and evident, we emphasize the basic concepts and methodologies that are universally applicable.
